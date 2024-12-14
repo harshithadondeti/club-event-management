@@ -1,0 +1,43 @@
+.Home{
+  min-height: 700px;
+  padding: 4px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: #ecf0f3;
+}
+
+.msg{
+  align-items: center;
+  justify-content: center;
+}
+
+.events{
+  justify-content: center;
+  align-items: center;
+}
+
+.event-head{
+  position:relative
+ 
+}
+
+.time-details{
+  position: absolute;
+  right:0%;
+}
+
+.event-info{
+  align-items: center;
+}
+
+.event-info li{
+  padding:4px;
+  margin:4px;
+}
+
+.card{
+  padding:2rem;
+}
